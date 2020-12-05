@@ -109,9 +109,8 @@ form.error .error__message {
   border: 0.5px solid rgb(255, 0, 76);
 }
 
-section.intro button:hover {
-  color: #fff;
-  background-color: var(--primary2-soft-Magenta);
+.s1 header form input[type="submit"]:hover {
+  box-shadow: inset 0px 0px 0px 40px rgba(255, 255, 255, 0.144);
 }
 
 .dashboard__img {
